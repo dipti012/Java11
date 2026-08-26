@@ -1,0 +1,456 @@
+# Section A — Identifiers (1–10)
+
+### 1.
+
+Write a program that declares a variable named studentName and prints it.
+
+---
+
+### 2.
+
+Declare variables using meaningful identifiers for:
+
+* Student ID
+* Age
+* GPA
+* Address
+
+Print all values.
+
+---
+
+### 3.
+
+Create variables named using *camelCase* convention.
+
+Example:
+
+* firstName
+* lastName
+* phoneNumber
+
+---
+
+### 4.
+
+Rename the following bad identifiers into valid C# identifiers.
+
+1student
+student-name
+class
+total marks
+
+---
+
+### 5.
+
+Declare five variables using proper naming conventions and initialize them.
+
+---
+
+### 6.
+
+Create identifiers representing a library system.
+
+Example:
+
+bookTitle
+authorName
+bookPrice
+publicationYear
+
+Print them.
+
+---
+
+### 7.
+
+Find and correct the invalid identifiers.
+
+int #age;
+double salary$;
+string full name;
+
+---
+
+### 8.
+
+Create a program containing at least *10 meaningful identifiers*.
+
+---
+
+### 9.
+
+Write a program where every variable name clearly describes its purpose.
+
+---
+
+### 10.
+
+Explain why each of these is valid or invalid.
+
+_score
+Score
+student1
+1Student
+Student_Name
+
+---
+
+# Section B — Keywords (11–20)
+
+### 11.
+
+Write a program using the keywords:
+
+int
+double
+string
+bool
+
+---
+
+### 12.
+
+Declare variables using different C# keywords.
+
+Print each variable.
+
+---
+
+### 13.
+
+Create a program using the keyword const.
+
+Store the value of PI.
+
+---
+
+### 14.
+
+Write a program using the keyword var.
+
+Store:
+
+* integer
+* decimal
+* string
+
+Print their inferred types.
+
+---
+
+### 15.
+
+Declare a boolean variable using the keyword bool.
+
+Print whether a student passed.
+
+---
+
+### 16.
+
+Use the keyword char to store the first letter of your name.
+
+---
+
+### 17.
+
+Declare a nullable integer using the appropriate keyword.
+
+Assign and print values.
+
+---
+
+### 18.
+
+Use the keywords
+
+if
+else
+
+to check whether age is greater than 18.
+
+---
+
+### 19.
+
+Create a program using the keyword readonly (research first).
+
+---
+
+### 20.
+
+Write a program using at least *10 different C# keywords*.
+
+---
+
+# Section C — Variables (21–30)
+
+### 21.
+
+Declare variables for:
+
+* Name
+* Age
+* Address
+
+Print them.
+
+---
+
+### 22.
+
+Swap two integer variables without using a third variable.
+
+---
+
+### 23.
+
+Store your marks in three subjects and print them.
+
+---
+
+### 24.
+
+Calculate the total marks using variables.
+
+---
+
+### 25.
+
+Calculate the average marks.
+
+---
+
+### 26.
+
+Create variables representing:
+
+* Laptop Brand
+* RAM
+* SSD
+* Price
+
+Print a formatted output.
+
+---
+
+### 27.
+
+Declare multiple variables in one statement.
+
+---
+
+### 28.
+
+Assign one variable's value to another variable.
+
+Observe the output.
+
+---
+
+### 29.
+
+Change the value of a variable three times and print after every update.
+
+---
+
+### 30.
+
+Create a simple student information system using variables only.
+
+---
+
+# Section D — Data Types (31–40)
+
+### 31.
+
+Declare variables of every basic C# data type.
+
+int
+double
+float
+decimal
+char
+bool
+string
+byte
+long
+short
+
+Print each.
+
+---
+
+### 32.
+
+Store your height using an appropriate data type.
+
+---
+
+### 33.
+
+Store your annual salary.
+
+Choose the most suitable data type.
+
+---
+
+### 34.
+
+Write a program demonstrating the difference between
+
+float
+double
+decimal
+
+---
+
+### 35.
+
+Store a single character and a word.
+
+Print both.
+
+---
+
+### 36.
+
+Create a program demonstrating implicit type conversion.
+
+---
+
+### 37.
+
+Create a program demonstrating explicit type casting.
+
+---
+
+### 38.
+
+Convert an integer into double.
+
+Print both values.
+
+---
+
+### 39.
+
+Convert a double into an integer.
+
+Observe the output.
+
+---
+
+### 40.
+
+Create variables representing:
+
+* Temperature
+* Population
+* Mobile Number
+* Bank Balance
+
+Choose the most appropriate data type.
+
+---
+
+# Section E — Operators (41–50)
+
+### 41.
+
+Write a program performing:
+
++
+-
+*
+/
+%
+
+on two integers.
+
+---
+
+### 42.
+
+Calculate the area of a rectangle.
+
+Use multiplication operator.
+
+---
+
+### 43.
+
+Calculate the perimeter of a rectangle.
+
+---
+
+### 44.
+
+Check whether a number is even or odd using the modulus operator.
+
+---
+
+### 45.
+
+Compare two numbers using relational operators.
+
+Print:
+
+* Greater than
+* Less than
+* Equal
+
+---
+
+### 46.
+
+Use logical operators to determine whether a student passes.
+
+Condition:
+
+Marks >= 40
+Attendance >= 75%
+
+---
+
+### 47.
+
+Use increment (++) and decrement (--) operators.
+
+Print values before and after.
+
+---
+
+### 48.
+
+Demonstrate compound assignment operators.
+
++=
+-=
+*=
+/=
+%=
+
+---
+
+### 49.
+
+Write a calculator that accepts two numbers and prints the results of all arithmetic operations.
+
+---
+
+### 50. Mini Challenge
+
+Create a program for an online shopping bill.
+
+Requirements:
+
+* Store product name.
+* Store quantity.
+* Store unit price.
+* Calculate subtotal.
+* Calculate 13% tax.
+* Calculate final amount.
+* Print a formatted bill.
