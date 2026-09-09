@@ -22,7 +22,7 @@ void withdraw(double amount){
     System.out.println("Amount withdraw sucessfully.");
 }
 }
-void dispalyBalance(){
+void displayBalance(){
     System.out.println("current balance:Rs" + balance);
 }
 }
@@ -30,16 +30,18 @@ public class Question {
     public static void main (String[] args) {
         Scanner input = new Scanner(System.in);
         Account account = new Account();       
+
         System.out.println("Enter a deposite amount");
         double depositeAmount = input.nextDouble();
+
         account.deposite(depositeAmount);
-        account.dispalyBalance();
+        account.displayBalance();
 
         System.out.println("Enter a withdraw amount");
-        double withdrawAmount = input.nextdouble();
+        double withdrawAmount = input.nextDouble();
 
         account.withdraw(withdrawAmount);
-        account.dispayBalance();
+        account.displayBalance();
 
         input.close();
     }       
