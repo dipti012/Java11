@@ -23,11 +23,13 @@ class Student{
 
     }
 
-
-}
 void display(){
     System.out.println("Id :" + i);
     System.out.println("Name:" + n);
     System.out.println("Age:" + a);
+}
 
+}
+public class Example2{
+    public static voi
 }
