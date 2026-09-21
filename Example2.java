@@ -16,20 +16,25 @@ class Student{
     id = i;
     name = n;
     }
-    Student(int i, String n,int a){
+    Student(int i, String n, int a){
         id = i;
         name = n;
         age = a;
 
     }
 
-void display(){
-    System.out.println("Id :" + i);
-    System.out.println("Name:" + n);
-    System.out.println("Age:" + a);
+void displayInformation(){
+    System.out.println(id+""+name+""+age);
+
+    
 }
 
 }
 public class Example2{
-    public static voi
+    public static void main(String[] args){
+        Student s1 = new Student(11, "karan");
+        Student s2 = new Student(12, "dipti", 16);
+        s1.displayInformation();
+        s2.displayInformation();
+    }
 }
