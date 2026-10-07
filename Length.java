@@ -2,8 +2,8 @@
 public class Length{
     public static void main(String[] args){
         String name = "Sita";
-        int length = name.length;
+        
 
-        System.out.println( length);
+        System.out.println( name.length());
     }
 }

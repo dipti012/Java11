@@ -1159,8 +1159,8 @@ Use String concatenation wherever appropriate.
 4. Write a program to demonstrate the `append()` method.
 5. Write a program to demonstrate the `reverse()` method.
 6. Write a program to demonstrate the `delete()` method.
-7. Write a program to demonstrate the `insert()` method.
-8. Write a program using StringBuffer that demonstrates all four methods:
+7. Write a program to demonstrate the `insertWrite a program using StringBuffer that demo()` method.
+8. nstrates all four methods:
 
    * `append()`
    * `reverse()`
