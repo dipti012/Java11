@@ -5,10 +5,10 @@
    //* `insert()`
    public class Example11{
     public static void main(String[] args){
-        StringBuffer obj = new StringBuffer("java")
+        StringBuffer obj = new StringBuffer("java");
         obj.append("sub");
         System.out.println(obj);
         obj.reverse();
-        System.out.println()
+        System.out.println(obj);
     }
    }
